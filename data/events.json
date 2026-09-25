@@ -1191,6 +1191,16 @@
       "track": "coffee & lunch break time"
     },
     {
+      "startTime": "2026-09-30T15:40:00",
+      "endTime": "2026-09-30T15:50:00",
+      "duration": "PT10M",
+      "summary": "Deploying Drupal across the U.K. public sector (Sponsored by Big Blue Door)",
+      "location": "Open Stage",
+      "description": "Louwrens Erasmus (Louwrenserasmus), Alice Grey (alice.grey)",
+      "link": "https://events.drupal.org/rotterdam2026/session/deploying-drupal-across-uk-public-sector-sponsored-big-blue-door",
+      "track": "sponsor talks"
+    },
+    {
       "startTime": "2026-09-30T16:00:00",
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
