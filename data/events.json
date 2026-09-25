@@ -51,36 +51,6 @@
       "track": "summit"
     },
     {
-      "startTime": "2026-09-28T10:30:00",
-      "endTime": "2026-09-28T11:00:00",
-      "duration": "PT30M",
-      "summary": "Coffee Break 1, Monday",
-      "location": "Breakfast Area - 1st Floor",
-      "description": "",
-      "link": "https://events.drupal.org/rotterdam2026/session/coffee-break-1-monday",
-      "track": "coffee & lunch break time"
-    },
-    {
-      "startTime": "2026-09-28T12:30:00",
-      "endTime": "2026-09-28T13:30:00",
-      "duration": "PT1H",
-      "summary": "Lunch Break, Monday",
-      "location": "Breakfast Area - 1st Floor",
-      "description": "",
-      "link": "https://events.drupal.org/rotterdam2026/session/lunch-break-monday",
-      "track": "coffee & lunch break time"
-    },
-    {
-      "startTime": "2026-09-28T15:00:00",
-      "endTime": "2026-09-28T15:30:00",
-      "duration": "PT30M",
-      "summary": "Coffee Break 2, Monday",
-      "location": "Breakfast Area - 1st Floor",
-      "description": "",
-      "link": "https://events.drupal.org/rotterdam2026/session/coffee-break-2-monday",
-      "track": "coffee & lunch break time"
-    },
-    {
       "startTime": "2026-09-28T17:15:00",
       "endTime": "2026-09-28T18:15:00",
       "duration": "PT1H",
