@@ -216,7 +216,7 @@
       "duration": "PT45M",
       "summary": "From Ajax API to HTMX: Evolving Drupal Interactions",
       "location": "Penn Room I&II",
-      "description": "Ruturaj Chaubey (ruturaj chaubey), Vighnesh Sadagopal (vighneshh)",
+      "description": "Ruturaj Chaubey (ruturaj chaubey), Vighnesh Sadagopal (vighneshh), Vidit Vijaykumar Anjaria (Vidit.anjaria)",
       "link": "https://events.drupal.org/rotterdam2026/session/ajax-api-htmx-evolving-drupal-interactions",
       "track": "development, ai & agentic architecture"
     },
@@ -244,11 +244,11 @@
       "startTime": "2026-09-29T13:30:00",
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
-      "summary": "The Case for Drupal CMS",
+      "summary": "Reviewer-Friendly AI: A Practical Drupal Contribution Workshop",
       "location": "Van Oldenbarnevelt Room",
-      "description": "Pamela Barone (Pameeela), Lauri Timmanee (lauriii)",
-      "link": "https://events.drupal.org/rotterdam2026/session/case-drupal-cms",
-      "track": "drupal cms"
+      "description": "Scott Falconer (Scott-falconer)",
+      "link": "https://events.drupal.org/rotterdam2026/session/reviewer-friendly-ai-practical-drupal-contribution-workshop",
+      "track": "development, ai & agentic architecture"
     },
     {
       "startTime": "2026-09-29T13:30:00",
@@ -344,11 +344,11 @@
       "startTime": "2026-09-29T14:25:00",
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
-      "summary": "Reviewer-Friendly AI: A Practical Drupal Contribution Workshop",
+      "summary": "The Case for Drupal CMS",
       "location": "Van Oldenbarnevelt Room",
-      "description": "Scott Falconer (Scott-falconer)",
-      "link": "https://events.drupal.org/rotterdam2026/session/reviewer-friendly-ai-practical-drupal-contribution-workshop",
-      "track": "development, ai & agentic architecture"
+      "description": "Pamela Barone (Pameeela), Lauri Timmanee (lauriii)",
+      "link": "https://events.drupal.org/rotterdam2026/session/case-drupal-cms",
+      "track": "drupal cms"
     },
     {
       "startTime": "2026-09-29T14:25:00",
