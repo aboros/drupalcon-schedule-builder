@@ -516,7 +516,7 @@
       "duration": "PT45M",
       "summary": "Drupal on persistent servers: Connecting the dots",
       "location": "Blue Room",
-      "description": "Merlin A. Rutz (geek-merlin)",
+      "description": "Axel Rutz (geek-merlin)",
       "link": "https://events.drupal.org/rotterdam2026/session/drupal-persistent-servers-connecting-dots",
       "track": "bof"
     },
@@ -1006,7 +1006,7 @@
       "duration": "PT45M",
       "summary": "Page Builder Deathmatch: Canvas vs Display Builder in a Real World Project",
       "location": "Leeuwen Room I&II",
-      "description": "Merlin A. Rutz (geek-merlin), Andreas R\u00fcther (Anruether)",
+      "description": "Axel Rutz (geek-merlin), Andreas R\u00fcther (Anruether)",
       "link": "https://events.drupal.org/rotterdam2026/session/page-builder-deathmatch-canvas-vs-display-builder-real-world-project",
       "track": "development, ai & agentic architecture"
     },
