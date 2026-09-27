@@ -422,16 +422,6 @@
     },
     {
       "startTime": "2026-09-29T15:45:00",
-      "endTime": "2026-09-29T16:30:00",
-      "duration": "PT45M",
-      "summary": "Beyond content staging: where Drupal Workspaces is heading",
-      "location": "Leeuwen Room I&II",
-      "description": "Ajit Chandrakant Shinde (ajits)",
-      "link": "https://events.drupal.org/rotterdam2026/session/beyond-content-staging-where-drupal-workspaces-heading",
-      "track": "development, ai & agentic architecture"
-    },
-    {
-      "startTime": "2026-09-29T15:45:00",
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT1H40M",
       "summary": "Building Production-Ready AI Applications Using Curated Drupal Recipes",
