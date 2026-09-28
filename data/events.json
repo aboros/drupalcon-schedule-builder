@@ -844,6 +844,16 @@
       "startTime": "2026-09-30T11:40:00",
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
+      "summary": "Do you want to help me create THE Drupal Boardgame?",
+      "location": "J.F. Staal Room",
+      "description": "Hilmar Hallbj\u00f6rnsson (Drupalviking)",
+      "link": "https://events.drupal.org/rotterdam2026/session/do-you-want-help-me-create-drupal-boardgame",
+      "track": "bof"
+    },
+    {
+      "startTime": "2026-09-30T11:40:00",
+      "endTime": "2026-09-30T12:25:00",
+      "duration": "PT45M",
       "summary": "Drupal.org Engineering Panel",
       "location": "Goudriaan Room I&II",
       "description": "",
