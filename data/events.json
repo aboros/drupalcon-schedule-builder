@@ -434,6 +434,16 @@
       "startTime": "2026-09-29T15:45:00",
       "endTime": "2026-09-29T16:30:00",
       "duration": "PT45M",
+      "summary": "Display Builder, the HTMX-powered visual builder",
+      "location": "Van Walsum Room",
+      "description": "Pierre Dureau (pdureau)",
+      "link": "https://events.drupal.org/rotterdam2026/session/display-builder-htmx-powered-visual-builder",
+      "track": "bof"
+    },
+    {
+      "startTime": "2026-09-29T15:45:00",
+      "endTime": "2026-09-29T16:30:00",
+      "duration": "PT45M",
       "summary": "Drupal CMS spotlights",
       "location": "Rotterdam Room I&II",
       "description": "James Abrahams (yautja_cetanu), Martin Anderson-Clutz (Mandclu), Angie Byron (webchick), G\u00e1bor Hojtsy (g\u00e1bor hojtsy), Fons Vandamme (f0ns)",
