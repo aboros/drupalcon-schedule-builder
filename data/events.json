@@ -5,7 +5,7 @@
       "endTime": "2026-09-28T17:00:00",
       "duration": "PT8H15M",
       "summary": "AI Dev Summit",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "",
       "link": "https://events.drupal.org/rotterdam2026/session/ai-dev-summit",
       "track": "summit"
@@ -25,7 +25,7 @@
       "endTime": "2026-09-28T17:00:00",
       "duration": "PT8H",
       "summary": "Government Summit",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "",
       "link": "https://events.drupal.org/rotterdam2026/session/government-summit",
       "track": "summit"
@@ -195,7 +195,7 @@
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
       "summary": "Accessibility Worst Practices",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Christopher Torgalson (Bedlam)",
       "link": "https://events.drupal.org/rotterdam2026/session/accessibility-worst-practices",
       "track": "user experience, accessibility & design"
@@ -205,7 +205,7 @@
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
       "summary": "Culture mapping the human side of AI \u2014 A workshop to meet your people where they are",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Timi Csontos",
       "link": "https://events.drupal.org/rotterdam2026/session/culture-mapping-human-side-ai-workshop-meet-your-people-where-they-are",
       "track": "agency, business & marketing"
@@ -215,7 +215,7 @@
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
       "summary": "From Ajax API to HTMX: Evolving Drupal Interactions",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Ruturaj Chaubey (ruturaj chaubey), Vighnesh Sadagopal (vighneshh), Vidit Vijaykumar Anjaria (Vidit.anjaria)",
       "link": "https://events.drupal.org/rotterdam2026/session/ajax-api-htmx-evolving-drupal-interactions",
       "track": "development, ai & agentic architecture"
@@ -255,7 +255,7 @@
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
       "summary": "The joy and power of SDC, finally for form inputs",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Pierre Dureau (pdureau)",
       "link": "https://events.drupal.org/rotterdam2026/session/joy-and-power-sdc-finally-form-inputs",
       "track": "development, ai & agentic architecture"
@@ -265,7 +265,7 @@
       "endTime": "2026-09-29T14:15:00",
       "duration": "PT45M",
       "summary": "Why Your AI Agent Hallucinates: Engineering Lessons From a Production Workflow Builder in Drupal",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Shibin Devadas Kakanat (D34dman)",
       "link": "https://events.drupal.org/rotterdam2026/session/why-your-ai-agent-hallucinates-engineering-lessons-production-workflow",
       "track": "development, ai & agentic architecture"
@@ -275,7 +275,7 @@
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
       "summary": "Beyond the database: building a decoupled analytics layer for Drupal",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Bram ten Hove (Bramtenhove)",
       "link": "https://events.drupal.org/rotterdam2026/session/beyond-database-building-decoupled-analytics-layer-drupal",
       "track": "development, ai & agentic architecture"
@@ -285,7 +285,7 @@
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
       "summary": "Drupal in a Days: One Year Later",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Nico Grienauer (Grienauer), Guzman Bellon (guzmanb)",
       "link": "https://events.drupal.org/rotterdam2026/session/drupal-days-one-year-later",
       "track": "community health"
@@ -295,7 +295,7 @@
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
       "summary": "Encoding Expertise: How UX Research Powers Human-First AI",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Aidan Foster (Afoster)",
       "link": "https://events.drupal.org/rotterdam2026/session/encoding-expertise-how-ux-research-powers-human-first-ai",
       "track": "user experience, accessibility & design"
@@ -335,7 +335,7 @@
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
       "summary": "One Portal, 16 Markets: How Sharp Built a Pan-European Partner Ecosystem on Drupal",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Badd\u00fd Sonja Breidert (baddysonja), Godspower Omenihu (Godsomex)",
       "link": "https://events.drupal.org/rotterdam2026/session/one-portal-16-markets-how-sharp-built-pan-european-partner-ecosystem-drupal",
       "track": "success stories & innovation"
@@ -365,7 +365,7 @@
       "endTime": "2026-09-29T15:10:00",
       "duration": "PT45M",
       "summary": "When the roadmap is a battleground: building a shared Drupal platform for government",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Rikkert Steenbergen (rikkert86), Esmeralda Tijhoff (Esmoves)",
       "link": "https://events.drupal.org/rotterdam2026/session/when-roadmap-battleground-building-shared-drupal-platform-government",
       "track": "success stories & innovation"
@@ -405,7 +405,7 @@
       "endTime": "2026-09-29T16:30:00",
       "duration": "PT45M",
       "summary": "Agentic Debugging: Teaching AI to Step Through Your Code",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Kyrylo Popov (www.drupal.org/u/kir-lazur)",
       "link": "https://events.drupal.org/rotterdam2026/session/agentic-debugging-teaching-ai-step-through-your-code",
       "track": "development, ai & agentic architecture"
@@ -425,7 +425,7 @@
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT1H40M",
       "summary": "Building Production-Ready AI Applications Using Curated Drupal Recipes",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Dr. Christoph Breidert (breidert)",
       "link": "https://events.drupal.org/rotterdam2026/session/building-production-ready-ai-applications-using-curated-drupal-recipes",
       "track": "development, ai & agentic architecture"
@@ -465,7 +465,7 @@
       "endTime": "2026-09-29T16:30:00",
       "duration": "PT45M",
       "summary": "From Vendor Lock-In to Digital Sovereignty: A Practical Roadmap for Governments & EU Institutions",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Giannis Kyriazopoulos (Kyriazo), Yorgos Andreadis (Esepia)",
       "link": "https://events.drupal.org/rotterdam2026/session/vendor-lock-digital-sovereignty-practical-roadmap-governments-eu-institutions",
       "track": "digital sovereignty & open web"
@@ -495,7 +495,7 @@
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT45M",
       "summary": "Beyond the CMS: Drupal as the Backbone of an Open Health Platform",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Guillem Santamaria (Guillemsm), David Ortega (dortega), Pol Fern\u00e1ndez Clotet",
       "link": "https://events.drupal.org/rotterdam2026/session/beyond-cms-drupal-backbone-open-health-platform",
       "track": "digital sovereignty & open web"
@@ -535,7 +535,7 @@
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT45M",
       "summary": "Help shape Drupal\u2019s story: A global marketing call to action",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Maya Schaeffer (Mayalena), Ryan Witcombe (ryan_witcombe), Will Huggins (Zoocha Will), Rosie Gladden (rgladden)",
       "link": "https://events.drupal.org/rotterdam2026/session/help-shape-drupals-story-global-marketing-call-action",
       "track": "agency, business & marketing"
@@ -545,7 +545,7 @@
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT45M",
       "summary": "How Drupal drives Pinball Machines",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Markus Kalkbrenner (Mkalkbrenner)",
       "link": "https://events.drupal.org/rotterdam2026/session/how-drupal-drives-pinball-machines",
       "track": "success stories & innovation"
@@ -565,7 +565,7 @@
       "endTime": "2026-09-29T17:25:00",
       "duration": "PT45M",
       "summary": "Your Dashboard Is Lying: Goodhart's Law and the Metrics Crisis in AI-Era Drupal Delivery",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Ulka Neil (ulkaneildrupal)",
       "link": "https://events.drupal.org/rotterdam2026/session/your-dashboard-lying-goodharts-law-and-metrics-crisis-ai-era-drupal-delivery",
       "track": "agency, business & marketing"
@@ -575,7 +575,7 @@
       "endTime": "2026-09-29T17:55:00",
       "duration": "PT20M",
       "summary": "A developer is more than their code: growing the seniors of 2031",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Janez Zibelnik (Janez-zibelnik)",
       "link": "https://events.drupal.org/rotterdam2026/session/developer-more-their-code-growing-seniors-2031",
       "track": "community health"
@@ -585,7 +585,7 @@
       "endTime": "2026-09-29T17:55:00",
       "duration": "PT20M",
       "summary": "Can AI Fix the Web? The Promises and Perils of \"Automated\" Accessibility",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Junaid Masoodi (Junaidmasoodi)",
       "link": "https://events.drupal.org/rotterdam2026/session/can-ai-fix-web-promises-and-perils-automated-accessibility",
       "track": "development, ai & agentic architecture"
@@ -605,7 +605,7 @@
       "endTime": "2026-09-29T17:55:00",
       "duration": "PT20M",
       "summary": "From Legacy Chaos to Drupal CMS: AI-Assisted Content Modeling & Migration",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Raffaele Chiocca (Rafuel92)",
       "link": "https://events.drupal.org/rotterdam2026/session/legacy-chaos-drupal-cms-ai-assisted-content-modeling-migration",
       "track": "drupal cms"
@@ -625,7 +625,7 @@
       "endTime": "2026-09-29T17:55:00",
       "duration": "PT20M",
       "summary": "Performance Testing in the Wild: Building a Safety Net with Drupal Core and Gander",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Julien Joye (Julienjoye)",
       "link": "https://events.drupal.org/rotterdam2026/session/performance-testing-wild-building-safety-net-drupal-core-and-gander",
       "track": "development, ai & agentic architecture"
@@ -635,7 +635,7 @@
       "endTime": "2026-09-29T17:55:00",
       "duration": "PT20M",
       "summary": "Take Back Your Autonomy",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Valerie Valkenburg-Gibson (Valgibson)",
       "link": "https://events.drupal.org/rotterdam2026/session/take-back-your-autonomy",
       "track": "development, ai & agentic architecture"
@@ -745,7 +745,7 @@
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
       "summary": "AI-Augmented Accessibility: From Automated Alt-Text to Governance Gates",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Mike Gifford (Mgifford)",
       "link": "https://events.drupal.org/rotterdam2026/session/ai-augmented-accessibility-automated-alt-text-governance-gates",
       "track": "user experience, accessibility & design"
@@ -775,7 +775,7 @@
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
       "summary": "Hidden Skills of Development: Practical Building Blocks for Team Health",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Mikaela Kindstedt (frazile), Sanna Kramsi (calydia)",
       "link": "https://events.drupal.org/rotterdam2026/session/hidden-skills-development-practical-building-blocks-team-health",
       "track": "community health"
@@ -795,7 +795,7 @@
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
       "summary": "Nobody Asked for a CMS: From Content Management to Answer Delivery in the Age of AI",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Tomi Mikola (TomiMikola), Ulla Koho (Ullakoho)",
       "link": "https://events.drupal.org/rotterdam2026/session/nobody-asked-cms-content-management-answer-delivery-age-ai",
       "track": "success stories & innovation"
@@ -805,7 +805,7 @@
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
       "summary": "Rebuilding the LMS Mid-Flight: A Drupal Success Story with AFT and AFL-CIO",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Marcin Grabias (Graber)",
       "link": "https://events.drupal.org/rotterdam2026/session/rebuilding-lms-mid-flight-drupal-success-story-aft-and-afl-cio",
       "track": "success stories & innovation"
@@ -815,7 +815,7 @@
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
       "summary": "Shipping products with confidence: how we rebuilt our testing tools for velocity",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Alexander Varwijk (Kingdutch)",
       "link": "https://events.drupal.org/rotterdam2026/session/shipping-products-confidence-how-we-rebuilt-our-testing-tools-velocity",
       "track": "development, ai & agentic architecture"
@@ -835,7 +835,7 @@
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
       "summary": "Clean Code in the Age of AI: Writing for Humans When Machines Write the Code",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Len Swaneveld (Lendude)",
       "link": "https://events.drupal.org/rotterdam2026/session/clean-code-age-ai-writing-humans-when-machines-write-code",
       "track": "development, ai & agentic architecture"
@@ -845,7 +845,7 @@
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
       "summary": "Democratizing Enterprise Applications: Positioning Drupal as a Strategic Low-Code Framework",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Anne  (ckaotik), Giles Mccormick Smith (Seumel Matthias)",
       "link": "https://events.drupal.org/rotterdam2026/session/democratizing-enterprise-applications-positioning-drupal-strategic-low-code",
       "track": "digital sovereignty & open web"
@@ -865,7 +865,7 @@
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
       "summary": "Drupal.org Engineering Panel",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "",
       "link": "https://events.drupal.org/rotterdam2026/session/drupalorg-engineering-panel",
       "track": "digital sovereignty & open web"
@@ -875,7 +875,7 @@
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
       "summary": "Inside the Pyramid - A path to faster, clearer Drupal testing",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Francesco Placella (Plach)",
       "link": "https://events.drupal.org/rotterdam2026/session/inside-pyramid-path-faster-clearer-drupal-testing",
       "track": "development, ai & agentic architecture"
@@ -895,7 +895,7 @@
       "endTime": "2026-09-30T12:25:00",
       "duration": "PT45M",
       "summary": "One Brand Voice from 35 Sources: How We Rebuilt VisitEurope.com and How Drupal AI Unifies Its Tone",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Kriszti\u00e1n K\u00e1sa (Kkasa), Zs\u00f3fia Alf\u00f6ldi (zsofia.alfoldi)",
       "link": "https://events.drupal.org/rotterdam2026/session/one-brand-voice-35-sources-how-we-rebuilt-visiteuropecom-and-how-drupal-ai",
       "track": "success stories & innovation"
@@ -965,7 +965,7 @@
       "endTime": "2026-09-30T14:00:00",
       "duration": "PT20M",
       "summary": "A joyful tour through the CLI now in Drupal Core",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Moshe Weitzman (moshe-weitzman)",
       "link": "https://events.drupal.org/rotterdam2026/session/joyful-tour-through-cli-now-drupal-core",
       "track": "development, ai & agentic architecture"
@@ -975,7 +975,7 @@
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT45M",
       "summary": "Client Experience is Everyone\u2019s Responsibility",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "Katie Conaway (Katie.conaway), Elliott Mower (Elliott.mower)",
       "link": "https://events.drupal.org/rotterdam2026/session/client-experience-everyones-responsibility",
       "track": "agency, business & marketing"
@@ -1015,7 +1015,7 @@
       "endTime": "2026-09-30T14:00:00",
       "duration": "PT20M",
       "summary": "New funding models for open source collaborations in government",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Will Callaghan (Willguv), Finn Lewis (Finn Lewis)",
       "link": "https://events.drupal.org/rotterdam2026/session/new-funding-models-open-source-collaborations-government",
       "track": "digital sovereignty & open web"
@@ -1025,7 +1025,7 @@
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT45M",
       "summary": "Page Builder Deathmatch: Canvas vs Display Builder in a Real World Project",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Merlin A Rutz (geek-merlin), Andreas R\u00fcther (Anruether)",
       "link": "https://events.drupal.org/rotterdam2026/session/page-builder-deathmatch-canvas-vs-display-builder-real-world-project",
       "track": "development, ai & agentic architecture"
@@ -1045,7 +1045,7 @@
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT45M",
       "summary": "Skin in the game: Digital Sovereignty, AI and Sustainability in Drupal",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "John Lockhart (jwlockhart)",
       "link": "https://events.drupal.org/rotterdam2026/session/skin-game-digital-sovereignty-ai-and-sustainability-drupal",
       "track": "digital sovereignty & open web"
@@ -1055,7 +1055,7 @@
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT20M",
       "summary": "Applying Web Sustainability Guidelines to Drupal Projects: From Design to Refactoring",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Cl\u00e1udia Desid\u00e9rio (Claudiadesiderio)",
       "link": "https://events.drupal.org/rotterdam2026/session/applying-web-sustainability-guidelines-drupal-projects-design-refactoring",
       "track": "digital sovereignty & open web"
@@ -1075,7 +1075,7 @@
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT20M",
       "summary": "The Reality of Accessibility Automation",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Daniel Angelov (danielangelov)",
       "link": "https://events.drupal.org/rotterdam2026/session/reality-accessibility-automation",
       "track": "user experience, accessibility & design"
@@ -1095,7 +1095,7 @@
       "endTime": "2026-09-30T15:30:00",
       "duration": "PT45M",
       "summary": "163 \u2192 42: Dismantling and Reassembling a Drupal Migration with AI",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Roberto Peruzzo (robertoperuzzo)",
       "link": "https://events.drupal.org/rotterdam2026/session/163-42-dismantling-and-reassembling-drupal-migration-ai",
       "track": "development, ai & agentic architecture"
@@ -1115,7 +1115,7 @@
       "endTime": "2026-09-30T15:30:00",
       "duration": "PT45M",
       "summary": "AI Mid-Life Crisis: failure stories from the silent majority",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Dieter Blomme (Daften), Valery Lourie (Valthebald)",
       "link": "https://events.drupal.org/rotterdam2026/session/ai-mid-life-crisis-failure-stories-silent-majority",
       "track": "community health"
@@ -1155,7 +1155,7 @@
       "endTime": "2026-09-30T15:30:00",
       "duration": "PT45M",
       "summary": "Same Image, Different Story: Why Drupal Needs Contextual Media Architecture",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "Tony Barker (Tonypaulbarker), Gareth Alexander (the_g_bomb)",
       "link": "https://events.drupal.org/rotterdam2026/session/same-image-different-story-why-drupal-needs-contextual-media-architecture",
       "track": "user experience, accessibility & design"
@@ -1165,7 +1165,7 @@
       "endTime": "2026-09-30T15:30:00",
       "duration": "PT45M",
       "summary": "Scolta: Drop-in AI Search Without a Search Server",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Kelly Booz, Jeremy Andrews (Jeremy)",
       "link": "https://events.drupal.org/rotterdam2026/session/scolta-drop-ai-search-without-search-server",
       "track": "development, ai & agentic architecture"
@@ -1175,7 +1175,7 @@
       "endTime": "2026-09-30T15:30:00",
       "duration": "PT45M",
       "summary": "Why Developers Don't Choose Drupal (And What Every Framework Can Learn From It)",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "J.D. Flynn (Dorficus)",
       "link": "https://events.drupal.org/rotterdam2026/session/why-developers-dont-choose-drupal-and-what-every-framework-can-learn-it",
       "track": "development, ai & agentic architecture"
@@ -1205,7 +1205,7 @@
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
       "summary": "AI Assists, Humans Decide: Agentic Workflows in Drupal - A Drupal AI Hackathon Story",
-      "location": "Room 2 - Mees Room I",
+      "location": "Session Room 2 - Mees I",
       "description": "David Galeano (gxleano), Adam Nagy (joevagyok)",
       "link": "https://events.drupal.org/rotterdam2026/session/ai-assists-humans-decide-agentic-workflows-drupal-drupal-ai-hackathon-story",
       "track": "development, ai & agentic architecture"
@@ -1215,7 +1215,7 @@
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
       "summary": "AI-Powered Site Building in Drupal: From Blank Site to Styled Pages in a Conversation",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "Francesco Pesenti (www.drupal.org/u/peximo), Francesco Quagliati (www.drupal.org/u/francescoq)",
       "link": "https://events.drupal.org/rotterdam2026/session/ai-powered-site-building-drupal-blank-site-styled-pages-conversation",
       "track": "development, ai & agentic architecture"
@@ -1245,7 +1245,7 @@
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
       "summary": "From Drupal Content to AI Answers: Learnings from EPSY",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Antonella Picarella (Squinternata)",
       "link": "https://events.drupal.org/rotterdam2026/session/drupal-content-ai-answers-learnings-epsy",
       "track": "development, ai & agentic architecture"
@@ -1255,7 +1255,7 @@
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
       "summary": "From SEO to GEO: What Changes, What Doesn\u2019t",
-      "location": "Room 1 - Mees II",
+      "location": "Session Room 1 - Mees II",
       "description": "Wouter De Bruycker (Wouterdebr)",
       "link": "https://events.drupal.org/rotterdam2026/session/seo-geo-what-changes-what-doesnt",
       "track": "agency, business & marketing"
@@ -1265,7 +1265,7 @@
       "endTime": "2026-09-30T16:45:00",
       "duration": "PT45M",
       "summary": "Getting the most out of Editoria11y v3",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "John Jameson (Itmaybejj)",
       "link": "https://events.drupal.org/rotterdam2026/session/getting-most-out-editoria11y-v3",
       "track": "user experience, accessibility & design"
@@ -1305,7 +1305,7 @@
       "endTime": "2026-09-30T17:45:00",
       "duration": "PT45M",
       "summary": "How Marketers Win in an AI\u2011First Search World (AEO & GEO Playbook)",
-      "location": "Session Room 5 - Goudriaan Room I&II",
+      "location": "Session Room 5 - Goudriaan I&II",
       "description": "reena tripathi (Reena Tripathi), Anubhav Gupta (anubhavgupta)",
       "link": "https://events.drupal.org/rotterdam2026/session/how-marketers-win-ai-first-search-world-aeo-geo-playbook",
       "track": "agency, business & marketing"
@@ -1315,7 +1315,7 @@
       "endTime": "2026-09-30T17:45:00",
       "duration": "PT45M",
       "summary": "Modern Video in Drupal: AV1, Responsive Sources, CDN Providers, and a Better Contrib Architecture",
-      "location": "Session Room 4 - Leeuwen Room I&II",
+      "location": "Session Room 4 - Leeuwen I&II",
       "description": "David Pacassi Torrico (dpacassi)",
       "link": "https://events.drupal.org/rotterdam2026/session/modern-video-drupal-av1-responsive-sources-cdn-providers-and-better-contrib",
       "track": "development, ai & agentic architecture"
@@ -1325,7 +1325,7 @@
       "endTime": "2026-09-30T17:45:00",
       "duration": "PT45M",
       "summary": "Refactor to #[Hook]",
-      "location": "Session Room 3 - Penn Room I&II",
+      "location": "Session Room 3 - Penn I&II",
       "description": "Fabian Bircher (Bircher)",
       "link": "https://events.drupal.org/rotterdam2026/session/refactor-hook",
       "track": "development, ai & agentic architecture"
