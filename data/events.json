@@ -764,6 +764,16 @@
       "startTime": "2026-09-30T10:45:00",
       "endTime": "2026-09-30T11:30:00",
       "duration": "PT45M",
+      "summary": "DrupalCamp England 2027",
+      "location": "BoF Room 3 - Van Walsum",
+      "description": "Tyler Staples (NexusNovaz)",
+      "link": "https://events.drupal.org/rotterdam2026/session/drupalcamp-england-2027",
+      "track": "bof"
+    },
+    {
+      "startTime": "2026-09-30T10:45:00",
+      "endTime": "2026-09-30T11:30:00",
+      "duration": "PT45M",
       "summary": "From Project Update Bot to your own site: the new Drupal Rector (Sponsored by SWIS)",
       "location": "Open Stage",
       "description": "Bj\u00f6rn Brala (bbrala)",
@@ -1149,6 +1159,16 @@
       "description": "Nathaniel Catchpole (catch)",
       "link": "https://events.drupal.org/rotterdam2026/session/how-we-made-biggest-performance-gains-decade-drupal-core",
       "track": "development, ai & agentic architecture"
+    },
+    {
+      "startTime": "2026-09-30T14:45:00",
+      "endTime": "2026-09-30T15:30:00",
+      "duration": "PT45M",
+      "summary": "Network of European Drupal Associations (NEDA) meeting",
+      "location": "BoF Room 3 - Van Walsum",
+      "description": "Sven Decabooter (Svendecabooter)",
+      "link": "https://events.drupal.org/rotterdam2026/session/network-european-drupal-associations-neda-meeting",
+      "track": "bof"
     },
     {
       "startTime": "2026-09-30T14:45:00",
