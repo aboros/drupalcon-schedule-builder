@@ -1034,6 +1034,16 @@
       "startTime": "2026-09-30T13:40:00",
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT45M",
+      "summary": "PRIVATE: DA + Security coordination, by invitation only",
+      "location": "Blue Room",
+      "description": "Tim Lehnen (Hestenet)",
+      "link": "https://events.drupal.org/rotterdam2026/session/private-da-security-coordination-invitation-only",
+      "track": "bof"
+    },
+    {
+      "startTime": "2026-09-30T13:40:00",
+      "endTime": "2026-09-30T14:25:00",
+      "duration": "PT45M",
       "summary": "Skin in the game: Digital Sovereignty, AI and Sustainability in Drupal",
       "location": "Mees Room II",
       "description": "John Lockhart (jwlockhart)",
