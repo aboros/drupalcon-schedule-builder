@@ -1002,6 +1002,16 @@
     },
     {
       "startTime": "2026-09-30T13:40:00",
+      "endTime": "2026-09-30T14:25:00",
+      "duration": "PT45M",
+      "summary": "Drupal Belgium association / community meeting",
+      "location": "BoF Room 3 - Van Walsum",
+      "description": "Sven Decabooter (Svendecabooter)",
+      "link": "https://events.drupal.org/rotterdam2026/session/drupal-belgium-association-community-meeting",
+      "track": "bof"
+    },
+    {
+      "startTime": "2026-09-30T13:40:00",
       "endTime": "2026-09-30T14:00:00",
       "duration": "PT20M",
       "summary": "From Passion to Pressure: Rethinking Sustainability in Open Source Communities",
@@ -1044,21 +1054,21 @@
       "startTime": "2026-09-30T13:40:00",
       "endTime": "2026-09-30T14:25:00",
       "duration": "PT45M",
-      "summary": "PRIVATE: DA + Security coordination, by invitation only",
-      "location": "BoF Room 2 - Blue",
-      "description": "Tim Lehnen (Hestenet)",
-      "link": "https://events.drupal.org/rotterdam2026/session/private-da-security-coordination-invitation-only",
-      "track": "bof"
-    },
-    {
-      "startTime": "2026-09-30T13:40:00",
-      "endTime": "2026-09-30T14:25:00",
-      "duration": "PT45M",
       "summary": "Skin in the game: Digital Sovereignty, AI and Sustainability in Drupal",
       "location": "Session Room 1 - Mees II",
       "description": "John Lockhart (jwlockhart)",
       "link": "https://events.drupal.org/rotterdam2026/session/skin-game-digital-sovereignty-ai-and-sustainability-drupal",
       "track": "digital sovereignty & open web"
+    },
+    {
+      "startTime": "2026-09-30T13:40:00",
+      "endTime": "2026-09-30T14:25:00",
+      "duration": "PT45M",
+      "summary": "Web Sustainability Guidelines and digital sustainability",
+      "location": "BoF Room 2 - Blue",
+      "description": "Emma Horrell (emma-horrell)",
+      "link": "https://events.drupal.org/rotterdam2026/session/web-sustainability-guidelines-and-digital-sustainability",
+      "track": "bof"
     },
     {
       "startTime": "2026-09-30T14:05:00",
